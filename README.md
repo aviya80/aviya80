@@ -2,7 +2,7 @@
 
 ## 📩 Contact Information
 ### 🔗 Connect with Me
-You can connect with me through [LinkedIn](www.linkedin.com/in/aviya-bezalel/) :)
+You can connect with me through [LinkedIn](https://www.linkedin.com/in/aviya-bezalel/) :)
 
 ### 🐍 Programming Languages
 - Python
