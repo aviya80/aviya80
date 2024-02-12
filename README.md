@@ -19,5 +19,3 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/aviya-bez
 - Javascript
 - Java
 - React
-
-Feel free to reach out and connect with me via LinkedIn. Thank you!
