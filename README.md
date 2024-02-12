@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, I'm Aviya! 👋
 
-<!--
-**aviya80/aviya80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📩 Contact Information
+### 🔗 Connect with Me
+You can connect with me through [LinkedIn](www.linkedin.com/in/aviya-bezalel/) :)
 
-Here are some ideas to get you started:
+### 🐍 Programming Languages
+- Python
+- Shell Script
+- Javascript
+- Java
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out and connect with me via LinkedIn. Thank you!
